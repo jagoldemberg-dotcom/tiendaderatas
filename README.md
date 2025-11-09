@@ -1,4 +1,4 @@
-# Mi Tienda – FrontEnd (DSY2202)
+# Tienda de ratas – FrontEnd (DSY2202)
 
 - **Tech:** HTML5, CSS3, Bootstrap 5, JavaScript, LocalStorage/SessionStorage.
 - **Roles:** `admin@tienda.com` / `Admin#123`, `cliente@tienda.com` / `Cliente#123`.
